@@ -37,3 +37,8 @@
 │       └── __init__.py
 └── README.md
 </pre>
+
+<p align="center">
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221332315-4716d85d-6e4b-4493-a363-94302d376163.png" alt="ml_lifecycle.png"></kbd>
+</p>
+
