@@ -1,6 +1,9 @@
 # Models-InProduction
  Integrating robust and reliable ML Pipelines in Production
 
+**`CI/CD and automated ML Pipeline`**
+![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
+
 <pre>
 .
 ├── 01-research_env
