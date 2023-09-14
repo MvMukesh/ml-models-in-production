@@ -4,6 +4,11 @@
 **`CI/CD and automated ML Pipeline`**
 ![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
 
+## Offline Training Phase
+![offline](https://github.com/MvMukesh/Models-InProduction/assets/26667491/13ca6951-6ff2-45a2-af95-c9c16fcac9c4)
+
+## Application Structure (Online-Prediction-Phase)
+![prod](https://github.com/MvMukesh/Models-InProduction/assets/26667491/d57dbf3f-e75e-475e-a028-fd4015c82668)
 
 # Tree
 <pre>
