@@ -1,9 +1,6 @@
 # Models-InProduction
  Integrating robust and reliable ML Pipelines in Production
 
-**`CI/CD and automated ML Pipeline`**
-![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
-
 ## Offline Training Phase
 ![offline](https://github.com/MvMukesh/Models-InProduction/assets/26667491/13ca6951-6ff2-45a2-af95-c9c16fcac9c4)
 
@@ -51,6 +48,10 @@
 │       └── __init__.py
 └── README.md
 </pre>
+
+**`CI/CD and automated ML Pipeline`**
+![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
+
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221332315-4716d85d-6e4b-4493-a363-94302d376163.png" alt="ml_lifecycle.png"></kbd>
