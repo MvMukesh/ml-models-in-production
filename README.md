@@ -1,6 +1,10 @@
 # Models-InProduction
  Integrating robust and reliable ML Pipelines in Production
 
+<hr> </hr>
+
+# ML System Design
+
 ## `Offline Training Phase`
 ![offline](https://github.com/MvMukesh/Models-InProduction/assets/26667491/13ca6951-6ff2-45a2-af95-c9c16fcac9c4)
 
@@ -11,6 +15,8 @@
 ![full_system](https://github.com/MvMukesh/Models-InProduction/assets/26667491/632b544b-cacb-4fba-9274-dee847ffb54a)
 
 ![cicd](https://github.com/MvMukesh/Models-InProduction/assets/26667491/fe7fcea9-307a-47a5-afed-307d32f61010)
+
+<hr> </hr>
 
 ## `Tree`
 <pre>
