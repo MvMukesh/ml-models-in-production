@@ -18,6 +18,11 @@
 
 <hr> </hr>
 
+## `API Architecture`
+![api_architecture](https://github.com/MvMukesh/Models-InProduction/assets/26667491/d10fe99c-5f7e-4735-ac4c-230a70758293)
+
+<hr> </hr>
+
 ## `Tree`
 <pre>
 .
