@@ -3,8 +3,6 @@
 
 <hr> </hr>
 
-# ML System Design
-
 ## `Tree`
 <pre>
 .
@@ -43,7 +41,7 @@
 └── README.md
 </pre>
 
-
+# ML System Design
 ## `Offline Training Phase`
 ![offline](https://github.com/MvMukesh/Models-InProduction/assets/26667491/13ca6951-6ff2-45a2-af95-c9c16fcac9c4)
 
@@ -77,15 +75,15 @@
 | Community Adoption        | Gaining popularity with a growing user base     | Widely adopted and widely used in the Python community | Established and widely used in the Python community |
 | Project Size Suitability | Suitable for small to large-scale projects      | Suitable for small to medium-sized projects          | Suitable for medium to large-scale projects         |
 | Flexibility and Customization | Offers flexibility and customization options   | Highly flexible and customizable                    | Offers flexibility within its established conventions |
-| Pros                      | - Exceptional performance with high throughput  | - Lightweight and easy to get started with         | - Robust and comprehensive framework with "batteries included"
-                             | - Automatic API documentation generation         | - Flexible and customizable architecture             | - Built-in admin interface for easy management
-                             | - Strong type safety and automatic data validation | - Extensive ecosystem of third-party extensions      | - Excellent security features and protection against common vulnerabilities
-                             | - Excellent support for asynchronous programming | - Well-suited for small to medium-sized projects     | - Ideal for large-scale and enterprise-level applications
-                             | - Easy integration with other Python libraries and frameworks | - Abundant learning resources and tutorials         | - Well-established and extensive community support
+| Pros                      | - Exceptional performance with high throughput  | - Lightweight and easy to get started with         | - Robust and comprehensive framework with "batteries included"|
+|                             | - Automatic API documentation generation         | - Flexible and customizable architecture             | - Built-in admin interface for easy management|
+|                             | - Strong type safety and automatic data validation | - Extensive ecosystem of third-party extensions      | - Excellent security features and protection against common vulnerabilities
+|                             | - Excellent support for asynchronous programming | - Well-suited for small to medium-sized projects     | - Ideal for large-scale and enterprise-level applications
+|                             | - Easy integration with other Python libraries and frameworks | - Abundant learning resources and tutorials         | - Well-established and extensive community support
 | Cons                      | - Relatively new framework with a smaller community compared to Flask and Django | - Limited out-of-the-box features compared to Django | - Longer development time due to the included features and conventions
-                             | - Limited number of available extensions and plugins | - Less suitable for large-scale applications with high traffic | - Requires manual configuration for complex functionality
-                             | - Steeper learning curve due to advanced features and concepts | - Requires manual configuration for complex functionality | - Complex architecture and extensive boilerplate code
-                             |                                                      | - Complex architecture and extensive boilerplate code | - Less flexibility compared to FastAPI and Flask
+|                             | - Limited number of available extensions and plugins | - Less suitable for large-scale applications with high traffic | - Requires manual configuration for complex functionality
+|                             | - Steeper learning curve due to advanced features and concepts | - Requires manual configuration for complex functionality | - Complex architecture and extensive boilerplate code
+|                             |                                                      | - Complex architecture and extensive boilerplate code | - Less flexibility compared to FastAPI and Flask
 
 <hr> </hr>
 
