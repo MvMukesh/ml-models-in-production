@@ -3,7 +3,7 @@
 
 <hr> </hr>
 
-## `Tree`
+## `Directory Tree`
 <pre>
 .
 ├── 01-research_env
