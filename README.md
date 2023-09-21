@@ -65,13 +65,22 @@
  </p>
 </div>
 
+<div style="border: 2px solid black; padding: 10px;"> 
+ <p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/fe7fcea9-307a-47a5-afed-307d32f61010" alt="cicd.png" width="600" height="200"></kbd>
+ </p>
+</div>
 
-![cicd](https://github.com/MvMukesh/Models-InProduction/assets/26667491/fe7fcea9-307a-47a5-afed-307d32f61010)
 
 <hr> </hr>
 
 ## `API Architecture`
-![api_architecture](https://github.com/MvMukesh/Models-InProduction/assets/26667491/d10fe99c-5f7e-4735-ac4c-230a70758293)
+<div style="border: 2px solid black; padding: 10px;"> 
+ <p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/d10fe99c-5f7e-4735-ac4c-230a70758293" alt="api_architecture.png" width="650" height="400"></kbd>
+ </p>
+</div>
+
 
 <hr> </hr>
 
