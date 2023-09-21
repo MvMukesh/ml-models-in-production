@@ -1,6 +1,8 @@
 # Models-InProduction
  Integrating robust and reliable ML Pipelines in Production
 
+![Used Technologies](https://img.shields.io/badge/Technologies-Python%20%7C%20ML%20%7C%20FastAPI%20%7C%20Flask%20%7C%20Django-blue)
+
 <hr> </hr>
 
 ## `Directory Tree`
@@ -43,13 +45,26 @@
 
 # ML System Design
 ## `Offline Training Phase`
-![offline](https://github.com/MvMukesh/Models-InProduction/assets/26667491/13ca6951-6ff2-45a2-af95-c9c16fcac9c4)
+<div style="border: 2px solid black; padding: 10px;"> 
+ <p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/13ca6951-6ff2-45a2-af95-c9c16fcac9c4" alt="ml_lifecycle.png" width="550" height="300"></kbd>
+ </p>
+</div>
 
 ## `Application Structure` (Online-Prediction-Phase)
-![prod](https://github.com/MvMukesh/Models-InProduction/assets/26667491/d57dbf3f-e75e-475e-a028-fd4015c82668)
+<div style="border: 2px solid black; padding: 10px;"> 
+ <p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/d57dbf3f-e75e-475e-a028-fd4015c82668" alt="prod.png" width="550" height="300"></kbd>
+ </p>
+</div>
 
 ## `Full System` (Online + Offline)
-![full_system](https://github.com/MvMukesh/Models-InProduction/assets/26667491/632b544b-cacb-4fba-9274-dee847ffb54a)
+<div style="border: 2px solid black; padding: 10px;"> 
+ <p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/632b544b-cacb-4fba-9274-dee847ffb54a" alt="full_system.png" width="550" height="300"></kbd>
+ </p>
+</div>
+
 
 ![cicd](https://github.com/MvMukesh/Models-InProduction/assets/26667491/fe7fcea9-307a-47a5-afed-307d32f61010)
 
@@ -88,12 +103,14 @@
 <hr> </hr>
 
 **`CI/CD and automated ML Pipeline`**
-![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png)
+<div style="border: 2px solid black; padding: 10px;"> 
+ <p align="center">
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png" alt="mlops_cicd.png" width="600" height="400"></kbd>
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221332315-4716d85d-6e4b-4493-a363-94302d376163.png" alt="ml_lifecycle.png" width="600" height="400"></kbd>
+ </p>
+</div>
 
 
-<p align="center">
-  <kbd><img src="https://user-images.githubusercontent.com/26667491/221332315-4716d85d-6e4b-4493-a363-94302d376163.png" alt="ml_lifecycle.png"></kbd>
-</p>
 
 ## Resources
 * [Google Cloud Architecture Center](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
