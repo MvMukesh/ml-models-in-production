@@ -1,8 +1,6 @@
 # Models-InProduction
  Integrating robust and reliable ML Pipelines in Production
 
-![Used Technologies](https://img.shields.io/badge/Technologies-Python%20%7C%20ML%20%7C%20FastAPI%20%7C%20Flask%20%7C%20Django-blue)
-
 <hr> </hr>
 
 ## `Directory Tree`
