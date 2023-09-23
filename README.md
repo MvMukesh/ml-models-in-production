@@ -60,6 +60,7 @@
 <div style="border: 2px solid black; padding: 10px;"> 
  <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/632b544b-cacb-4fba-9274-dee847ffb54a" alt="full_system.png" width="550" height="300"></kbd>
+   <p> Automated all steps inside cylinder using CI/CD </p> 
  </p>
 </div>
 
