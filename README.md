@@ -114,8 +114,8 @@
 **`CI/CD and automated ML Pipeline`**
 <div style="border: 2px solid black; padding: 10px;"> 
  <p align="center">
-   <kbd><img src="https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png" alt="mlops_cicd.png" width="600" height="400"></kbd>
-   <kbd><img src="https://user-images.githubusercontent.com/26667491/221332315-4716d85d-6e4b-4493-a363-94302d376163.png" alt="ml_lifecycle.png" width="600" height="400"></kbd>
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221462555-4ff921ec-6f31-4bf8-a7d9-5ab62f7d3630.png" alt="mlops_cicd.png" width="800" height="450"></kbd>
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221332315-4716d85d-6e4b-4493-a363-94302d376163.png" alt="ml_lifecycle.png" width="800" height="500"></kbd>
  </p>
 </div>
 
