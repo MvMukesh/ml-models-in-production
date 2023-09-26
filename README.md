@@ -60,14 +60,17 @@
 <div style="border: 2px solid black; padding: 10px;"> 
  <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/632b544b-cacb-4fba-9274-dee847ffb54a" alt="full_system.png" width="550" height="300"></kbd>
-   <p> Automated all steps inside cylinder using CI/CD </p> 
+   <p> Automated required steps using CI/CD </p>
  </p>
 </div>
 
 <div style="border: 2px solid black; padding: 10px;"> 
  <p align="center">
     <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/fe7fcea9-307a-47a5-afed-307d32f61010" alt="cicd.png" width="600" height="200"></kbd>
+    <p> Step: 1 -  Automating || Training, Testing & Deployment </p>
     <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/96fce2d5-e517-408e-95d6-07da83704283" alt="CICD-automation(train,test,deploy).png" width="650" height="350"></kbd>
+    <p> Step: 2 -  Automating || Model building & Publishing </p>
+    <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/a0f00218-50c3-408a-8d13-cedb4313fcc0" alt="CICD-automation(model_building,publishing.png" width="650" height="350">
  </p>
 </div>
 
