@@ -66,7 +66,8 @@
 
 <div style="border: 2px solid black; padding: 10px;"> 
  <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/fe7fcea9-307a-47a5-afed-307d32f61010" alt="cicd.png" width="600" height="200"></kbd>
+    <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/fe7fcea9-307a-47a5-afed-307d32f61010" alt="cicd.png" width="600" height="200"></kbd>
+    <kbd><img src="https://github.com/MvMukesh/Models-InProduction/assets/26667491/96fce2d5-e517-408e-95d6-07da83704283" alt="CICD-automation(train,test,deploy).png" width="650" height="350"></kbd>
  </p>
 </div>
 
