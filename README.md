@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/@manralai"><img src="https://img.shields.io/badge/Youtube-411AFF?style=for-the-badge&logo=Youtube&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
- 
+</div>
 
 # Models-InProduction
  Integrating robust and reliable ML Pipelines in Production
