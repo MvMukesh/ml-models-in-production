@@ -3,6 +3,8 @@
 
 <hr> </hr>
 
+[![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/Monitoring-N-Testing-Deployments.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/Monitoring-N-Testing-Deployments.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/Monitoring-N-Testing-Deployments/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/Monitoring-N-Testing-Deployments.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/Monitoring-N-Testing-Deployments/stargazers/)
+
 # ML System Design
 ## `Offline Training Phase`
 <div style="border: 2px solid black; padding: 10px;"> 
