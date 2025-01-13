@@ -63,7 +63,7 @@
 
 <hr>
 
-# ML System Design
+# 🗳️ ML System Design
 ## `Offline Training Phase`
 <div style="border: 2px solid black; padding: 10px;"> 
  <p align="center">
