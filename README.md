@@ -10,11 +10,58 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
-
-# Models-InProduction
- Integrating robust and reliable ML Pipelines in Production
+<h2>
+    <p align="center">
+     ⚙️ Model's In Production ⛮⛮
+    </p>
+</h2>
+<p align="center">
+ Integrating robust and reliable ML Pipelines in Production</center>
+</p>
 
 [![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/Monitoring-N-Testing-Deployments.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/Monitoring-N-Testing-Deployments.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/Monitoring-N-Testing-Deployments/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/Monitoring-N-Testing-Deployments.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/Monitoring-N-Testing-Deployments/stargazers/)
+
+<hr>
+
+## 📂`Production + Research Environment --> Directory Tree`
+<pre>
+.
+├── 01-research_env
+│   ├── 0-Data_Analysis_v4.ipynb
+│   ├── 1-Feature_Engineering_v2.ipynb
+│   ├── 2-Feature_Selection_v2.ipynb
+│   ├── 3-Model_Training.ipynb
+│   ├── 4-Scoring(unseen_data).ipynb
+│   ├── 5-Final_Pipeline.ipynb
+│   └── pre_process.py
+├── 02-production_env
+│   ├── regression_model
+│   │   ├── config
+│   │   │   ├── __init__.py
+│   │   │   └── core.py
+│   │   ├── config.yml
+│   │   ├── datasets
+│   │   │   └── __init__.py
+│   │   ├── pipeline.py
+│   │   ├── predict.py
+│   │   ├── preprocessing
+│   │   │   ├── __init__.py
+│   │   │   ├── data_manager.py
+│   │   │   ├── features.py
+│   │   │   └── validation.py
+│   │   ├── train_pipeline.py
+│   │   └── trained_models
+│   │       └── __init__.py
+│   ├── requirements
+│   │   ├── requirements.txt
+│   │   ├── test_requirements.txt
+│   │   └── typing_requirements.txt
+│   └── tests
+│       └── __init__.py
+└── README.md
+</pre>
+
+<hr>
 
 # ML System Design
 ## `Offline Training Phase`
@@ -60,45 +107,6 @@
 </div>
 
 <hr> </hr>
-
-## `Directory Tree`
-<pre>
-.
-├── 01-research_env
-│   ├── 0-Data_Analysis_v4.ipynb
-│   ├── 1-Feature_Engineering_v2.ipynb
-│   ├── 2-Feature_Selection_v2.ipynb
-│   ├── 3-Model_Training.ipynb
-│   ├── 4-Scoring(unseen_data).ipynb
-│   ├── 5-Final_Pipeline.ipynb
-│   └── pre_process.py
-├── 02-production_env
-│   ├── regression_model
-│   │   ├── config
-│   │   │   ├── __init__.py
-│   │   │   └── core.py
-│   │   ├── config.yml
-│   │   ├── datasets
-│   │   │   └── __init__.py
-│   │   ├── pipeline.py
-│   │   ├── predict.py
-│   │   ├── preprocessing
-│   │   │   ├── __init__.py
-│   │   │   ├── data_manager.py
-│   │   │   ├── features.py
-│   │   │   └── validation.py
-│   │   ├── train_pipeline.py
-│   │   └── trained_models
-│   │       └── __init__.py
-│   ├── requirements
-│   │   ├── requirements.txt
-│   │   ├── test_requirements.txt
-│   │   └── typing_requirements.txt
-│   └── tests
-│       └── __init__.py
-└── README.md
-</pre>
-
 
 ## `Learning` | Python WebFrameworks
 | Aspect                    | FastAPI                                           | Flask                                                | Django                                               |
