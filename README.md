@@ -111,6 +111,14 @@
 
 <hr> </hr>
 
+## `Data Pipeline in ML System`
+<div style="border: 2px solid black; padding: 10px;"> 
+ <p align="center">
+   <kbd><img src="https://github.com/user-attachments/assets/2c9ebe9f-6b46-4a79-99d0-1f747e19f93f" alt="api_architecture.png" width="650" height="720"></kbd>
+ </p>
+</div>
+<hr> </hr>
+
 ## `Learning` | Python WebFrameworks
 | Aspect                    | FastAPI                                           | Flask                                                | Django                                               |
 |---------------------------|--------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
